@@ -1,0 +1,2 @@
+# MULTIPLE-CLIENT-CONNECTED-TO-SERVER-CHAT-SYSTEM
+In this code server socket in JAVA is used to establish connection btw the client and server and in this stream multiple clients can connect to the same server and communication between multiple clients is possible and the communicated data i.e. the chat dat ais stored on to a file in your laptop to keep a log of the chat history through the server 
